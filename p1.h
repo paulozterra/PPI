@@ -14,6 +14,7 @@
 #include <algorithm>
 using namespace std;
 
+
 template<typename T>
 class mediana {
     queue<T> elems;
@@ -47,7 +48,8 @@ public:
 template<typename T>
 ostream& operator<<(ostream& os,mediana<T>& x)
 {
-    cout << x.med(); 
+    os<< x.med(); 
+    return os;
 }
 
 void pregunta_1_case_1();
