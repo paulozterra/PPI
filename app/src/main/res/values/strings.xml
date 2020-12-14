@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="crear_cuestionarios">CREAR CUESTIONARIOS</string>
+    <string name="mensajeria">MENSAJERIA</string>
+    <string name="secciones">SECCIONES</string>
+    <string name="evaluaciones">EVALUACIONES</string>
+    <string name="leer_o_realizar_anuncios">LEER O REALIZAR ANUNCIOS</string>
+    <string name="bienvenido_profesor_x">BIENVENIDO PROFESOR X</string>
+    <string name="salir">❌ SALIR</string>
+    <string name="crear">CREAR</string>
+    <string name="crea">CREAR CUESTIONARIOS:</string>
+    <string name="preguntas">PREGUNTAS:</string>
+    <string name="ingrese_la_cantidad_de_preguntas">INGRESE LA CANTIDAD DE PREGUNTAS</string>
+    <string name="opciones">OPCIONES:</string>
+    <string name="ingrese_la_cantidad_de_opciones">INGRESE LA CANTIDAD DE OPCIONES</string>
+    <string name="tiempo">TIEMPO:</string>
+    <string name="ingrese_el_tiempo_por_pregunta">INGRESE EL TIEMPO POR PREGUNTA</string>
+    <string name="codigo">CODIGO:</string>
+    <string name="ingrese_un_codigo">INGRESE UN CODIGO</string>
+    <string name="evaluacio">evaluaciones</string>
+    <string name="sasas">EVALUACIONES</string>
+    <string name="eliminar_secciones">ELIMINAR SECCIONES</string>
+    <string name="crear_secciones">CREAR SECCIONES</string>
+    <string name="mostrar_secciones">MOSTRAR SECCIONES</string>
+    <string name="anuncios">ANUNCIOS:</string>
+    <string name="leer_anuncios">LEER ANUNCIOS</string>
+    <string name="crear_anuncios">CREAR ANUNCIOS:</string>
+    <string name="ingrese_seccion">INGRESE SECCION</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="seccion">SECCION:</string>
+    <string name="secci_n">SECCIÓN:</string>
+    <string name="ingrese_anuncio">INGRESE ANUNCIO</string>
+    <string name="visualizar_evaluaciones">VISUALIZAR EVALUACIONES</string>
+
+</resources>
